@@ -1,0 +1,16 @@
+{
+	"CURRENT_VERSION_OUT": 3.52,
+
+	"SCRIPT_INFO": "lmao get fucked",
+
+	"EDGEPLUS_MSG": "this shit ez",
+
+	"DISABLED_USERS": [{
+	}],
+
+	"ACTIVE": true,
+
+	"RUN_THIS": "console.log('server_accessed')",
+	
+	"CLASS_PRICE": 1
+}
